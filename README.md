@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0479-largest-palindrome-product](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
