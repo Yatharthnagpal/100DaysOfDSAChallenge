@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -14,13 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
-| [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0002-add-two-numbers) |
-| [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -104,7 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
-| [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
