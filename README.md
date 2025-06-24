@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2665-minimum-time-to-repair-cars) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
