@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2665-minimum-time-to-repair-cars) |
@@ -123,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
