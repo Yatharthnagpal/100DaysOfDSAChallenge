@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2478-longest-nice-subarray) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
