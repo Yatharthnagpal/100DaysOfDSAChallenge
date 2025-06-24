@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0112-path-sum) |
 | [2793-count-the-number-of-complete-components](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0112-path-sum) |
 | [2793-count-the-number-of-complete-components](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
