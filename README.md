@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
 ## Tree
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
