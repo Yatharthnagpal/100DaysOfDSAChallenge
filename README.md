@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2665-minimum-time-to-repair-cars) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
