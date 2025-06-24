@@ -48,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0018-4sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
