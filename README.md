@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
