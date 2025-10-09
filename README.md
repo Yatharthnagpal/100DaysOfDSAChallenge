@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
