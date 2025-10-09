@@ -4,14 +4,11 @@ class Solution:
             return 0
         if n==1 or n==2:
             return 1
-        t0=0
-        t1=1
-        t2=1
+        T=[0] * (n+1)
+        T[1]=1
+        T[2]=1
         for i in range(3,n+1):
-            tn=t0+t1+t2
-            t0=t1
-            t1=t2
-            t2=tn
-        return t2
+            T[i]=T[i-2]+T[i-1]+T[i-3]
+        return T[n]
             
             
