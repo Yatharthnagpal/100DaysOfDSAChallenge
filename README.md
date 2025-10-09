@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0479-largest-palindrome-product) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
+| [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Number Theory
 |  |
