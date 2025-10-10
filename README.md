@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0326-power-of-three) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
 | [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1236-n-th-tribonacci-number) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Number Theory
