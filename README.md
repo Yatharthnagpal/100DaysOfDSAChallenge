@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
+| [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1603-running-sum-of-1d-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
