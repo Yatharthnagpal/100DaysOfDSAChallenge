@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
