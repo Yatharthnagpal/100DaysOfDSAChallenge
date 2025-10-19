@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
 ## String
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
 | [1013-fibonacci-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1013-fibonacci-number) |
