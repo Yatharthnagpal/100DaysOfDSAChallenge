@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0125-valid-palindrome) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
