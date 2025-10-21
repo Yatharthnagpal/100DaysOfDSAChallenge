@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1205-defanging-an-ip-address) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [2868-continuous-subarrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
