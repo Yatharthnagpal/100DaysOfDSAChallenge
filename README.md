@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0036-valid-sudoku) |
+| [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2665-minimum-time-to-repair-cars) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -150,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
