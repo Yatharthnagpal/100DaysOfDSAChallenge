@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
