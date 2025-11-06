@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2665-minimum-time-to-repair-cars) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0908-middle-of-the-linked-list) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2308-divide-array-into-equal-pairs) |
