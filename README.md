@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0371-sum-of-two-integers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0496-next-greater-element-i) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0371-sum-of-two-integers) |
