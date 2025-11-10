@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1205-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2300-construct-string-with-repeat-limit) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0874-backspace-string-compare](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 ## Sorting
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0874-backspace-string-compare) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0874-backspace-string-compare) |
 ## Enumeration
 |  |
 | ------- |
