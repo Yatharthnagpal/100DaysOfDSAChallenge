@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0371-sum-of-two-integers) |
