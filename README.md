@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0948-sort-an-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0874-backspace-string-compare) |
 ## Enumeration
 |  |
@@ -387,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
