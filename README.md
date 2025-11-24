@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0070-climbing-stairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Yatharthnagpal/100DaysOfDSAChallenge/tree/master/0120-triangle) |
