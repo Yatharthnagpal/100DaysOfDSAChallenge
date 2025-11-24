@@ -3,10 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        a=len(nums)
-        for _ in range(k):
-            temp=nums.pop(a-1)
-            nums.insert(0,temp)
+        k=k%(len(nums))
+        if k!=0:
+            for _ in range(k):
+                temp=nums.pop()
+                nums.insert(0,temp)
+        
 
 
         
